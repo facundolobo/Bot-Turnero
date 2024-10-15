@@ -1,0 +1,28 @@
+2024/10/14-12:08:09.835 a90c Reusing MANIFEST C:\Users\ARMAGEDOM\Desktop\ESTUDIO\PROYECTOS PERSONALES\Bot-WhatsApp\Bot-Recordatorios\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/10/14-12:08:09.836 a90c Recovering log #1382
+2024/10/14-12:08:09.889 a90c Reusing old log C:\Users\ARMAGEDOM\Desktop\ESTUDIO\PROYECTOS PERSONALES\Bot-WhatsApp\Bot-Recordatorios\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/001382.log 
+2024/10/14-12:08:12.380 a90c Manual compaction at level-0 from '\x00\xfd\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\xfe\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/10/14-14:04:14.036 af90 Level-0 table #1394: started
+2024/10/14-14:04:14.104 af90 Level-0 table #1394: 1344440 bytes OK
+2024/10/14-14:04:14.107 af90 Delete type=0 #1382
+2024/10/14-14:04:14.140 a180 Compacting 1@1 + 8@2 files
+2024/10/14-14:04:14.482 a180 Generated table #1395@1: 84401 keys, 2232503 bytes
+2024/10/14-14:04:14.750 a180 Generated table #1396@1: 99855 keys, 2252853 bytes
+2024/10/14-14:04:14.867 a180 Generated table #1397@1: 36834 keys, 2213155 bytes
+2024/10/14-14:04:14.927 a180 Generated table #1398@1: 2503 keys, 2148601 bytes
+2024/10/14-14:04:15.044 a180 Generated table #1399@1: 20806 keys, 2216289 bytes
+2024/10/14-14:04:15.136 a180 Generated table #1400@1: 16888 keys, 2172628 bytes
+2024/10/14-14:04:15.216 a180 Generated table #1401@1: 23236 keys, 2149528 bytes
+2024/10/14-14:04:15.375 a180 Generated table #1402@1: 98540 keys, 2248311 bytes
+2024/10/14-14:04:15.388 a180 Generated table #1403@1: 79 keys, 4084 bytes
+2024/10/14-14:04:15.388 a180 Compacted 1@1 + 8@2 files => 17637952 bytes
+2024/10/14-14:04:15.390 a180 compacted to: files[ 0 0 9 0 0 0 0 ]
+2024/10/14-14:04:15.390 a180 Delete type=2 #1384
+2024/10/14-14:04:15.390 a180 Delete type=2 #1385
+2024/10/14-14:04:15.390 a180 Delete type=2 #1386
+2024/10/14-14:04:15.390 a180 Delete type=2 #1387
+2024/10/14-14:04:15.390 a180 Delete type=2 #1388
+2024/10/14-14:04:15.390 a180 Delete type=2 #1389
+2024/10/14-14:04:15.390 a180 Delete type=2 #1390
+2024/10/14-14:04:15.390 a180 Delete type=2 #1391
+2024/10/14-14:04:15.390 a180 Delete type=2 #1394

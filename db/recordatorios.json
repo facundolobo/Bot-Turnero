@@ -1,0 +1,14 @@
+[
+  {
+    "nombreCliente": "Cliente 1",
+    "numeroTel": "5493834904523",
+    "day": 14,
+    "month": 10,
+    "year": 2024,
+    "hour": 14,
+    "minute": 22,
+    "trabajo": "corte de pelo",
+    "enviado": false,
+    "id": 1
+  }
+]
